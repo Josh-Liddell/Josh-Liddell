@@ -1,10 +1,14 @@
 <div align="center">
 
-## Hi there 👋, I'm Joshua
+## Hi there 👋,   I'm Joshua
 
 I'm an aspiring software developer from the pacific northwest USA. 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshliddell)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/joshliddell)
+
+
+
 
 </div>
 
@@ -17,6 +21,7 @@ I'm an aspiring software developer from the pacific northwest USA.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
 
@@ -27,7 +32,7 @@ I'm an aspiring software developer from the pacific northwest USA.
 
 Here are some ideas to get you started:
 
-INFORMATION SYSTEMS major at usu
+https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-database-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
