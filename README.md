@@ -25,13 +25,13 @@ I'm an aspiring software developer from the pacific northwest USA.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-
+<!--
 ### Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josh-Liddell&theme=dracula" />
 
 
 
-<!--
+
 
 BADGES: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-database-
 
