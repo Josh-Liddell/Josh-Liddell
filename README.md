@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Joshua, an aspiring software developer. Welcome to my GitHub profile!
+
+### About Me
+
 <!--
 **Josh-Liddell/Josh-Liddell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
