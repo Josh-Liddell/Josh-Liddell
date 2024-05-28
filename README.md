@@ -31,11 +31,17 @@ I'm an aspiring software developer from the pacific northwest USA.
 
 
 <!--
+
+BADGES: https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-database-
+
+
+
+
+
 **Josh-Liddell/Josh-Liddell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file#-database-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
