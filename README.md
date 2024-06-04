@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there 👋,   I'm Joshua
+## Hello 👋,   I'm Joshua
 
 I'm an aspiring software developer from the pacific northwest USA. 
 
