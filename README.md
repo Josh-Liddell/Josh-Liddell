@@ -1,18 +1,11 @@
-<div align="center">
+## Hi,   I'm Joshua
 
-## Hello 👋,   I'm Joshua
-
-I'm an aspiring software developer from the pacific northwest USA. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshliddell)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/joshliddell)
 
 
 
-
-
-
-</div>
 
 ### Skills
 
