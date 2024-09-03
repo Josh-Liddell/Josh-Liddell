@@ -6,7 +6,7 @@
 
 
 
-
+<!--
 
 ### Skills
 
@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-<!--
+
 ### Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josh-Liddell&theme=dracula" />
 
