@@ -12,7 +12,8 @@
 
 ## About Me
 
-Hi 👋
+Hi 👋  
+  
 I’m a student software developer with experience building practical solutions that improve workflows and data processing. I enjoy exploring how modern programming can solve real-world problems and I’m particularly drawn to Rust for its memory-safe and performant design. I am passionate about finance and economics and how technology can be applied to trading, investment, and market analysis. I’m always looking for opportunities to combine software development and financial insight to create impactful solutions.
 
 <br />
@@ -23,6 +24,13 @@ I’m a student software developer with experience building practical solutions 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
 
 
 <br />
