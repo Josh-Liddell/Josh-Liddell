@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Python+and+Data+Engineering;Rust+and+Systems+programming;Full-stack+software+engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&height=45&lines=Python+and+Data+Engineering;Rust+and+Systems+Programming;Full-stack+software+engineer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,8 @@
 
 ## About Me
 
-Hi 👋 I’m a student software developer with experience building practical solutions that improve workflows and data processing. I enjoy exploring how modern programming can solve real-world problems and I’m particularly drawn to Rust for its memory-safe and performant design. I am passionate about finance and economics and how technology can be applied to trading, investment, and market analysis. I’m always looking for opportunities to combine software development and financial insight to create impactful solutions.
+Hi 👋
+I’m a student software developer with experience building practical solutions that improve workflows and data processing. I enjoy exploring how modern programming can solve real-world problems and I’m particularly drawn to Rust for its memory-safe and performant design. I am passionate about finance and economics and how technology can be applied to trading, investment, and market analysis. I’m always looking for opportunities to combine software development and financial insight to create impactful solutions.
 
 <br />
 
@@ -35,7 +36,3 @@ Hi 👋 I’m a student software developer with experience building practical so
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Josh-Liddell&theme=react-dark&hide_border=true" width="800">
 </div>
-
-<!---
-To change the theme of stats cards, replace 'tokyonight' with: 'radical', 'merko', 'gruvbox', 'dark', etc.
---->
