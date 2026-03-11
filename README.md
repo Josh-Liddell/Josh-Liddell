@@ -14,7 +14,7 @@
 
 Hi 👋  
   
-I’m a student software developer with experience building practical solutions that improve workflows and data processing. I enjoy exploring how modern programming can solve real-world problems and I’m particularly drawn to Rust for its memory-safe and performant design. I am passionate about finance and economics and how technology can be applied to trading, investment, and market analysis. I’m always looking for opportunities to combine software development and financial insight to create impactful solutions. 
+I’m a student software developer with experience building solutions that improve workflows and data processing. I enjoy exploring how modern programming can solve real-world problems and I’m particularly drawn to Rust for its memory-safe and performant design. I am passionate about finance and economics and how technology can be applied to trading, investment, and market analysis. 
   
 Check out my most recent project [here](https://github.com/Josh-Liddell/fintech-exchange-platform)!
 
