@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CABF7,100:4B32AD&fontColor=FFFFFF&height=200&section=header&text=Joshua%20Liddell&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Student%20|%20Software%20Engineer%20|%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7CABF7,100:4B32AD&fontColor=FFFFFF&height=200&section=header&text=Joshua%20Liddell&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Tech%20Enthusiast&descAlignY=58&descAlign=50" width="100%" alt="Header Banner">
 </div>
 
 <div align="center">
@@ -10,15 +10,7 @@
 
 
 
-## About Me
 
-Hi 👋  
-  
-I’m a student software developer with experience building solutions that improve workflows and data processing. I enjoy exploring how modern programming can solve real-world problems and I’m particularly drawn to Rust for its memory-safe and performant design. I am passionate about finance and economics and how technology can be applied to trading, investment, and market analysis. 
-  
-Check out my most recent project [here](https://github.com/Josh-Liddell/fintech-exchange-platform)!
-
-<br />
 
 ## Technical Skills
 
